@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/u8436tackupkb32v?svg=true)](https://ci.appveyor.com/project/fjfoxru/ahj-dom)
+
 
 Правила сдачи задания:
 
