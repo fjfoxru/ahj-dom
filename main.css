@@ -1,0 +1,22 @@
+body {
+  background: #eee;
+  text-align: center;
+}
+
+.playground {
+  width: 200px;
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.person {
+  width: 10px;
+}
+
+.playground__cell {
+  border: 1px solid #000;
+  flex-basis: 24%;
+  flex-grow: 1;
+  min-height: 50px;
+}
